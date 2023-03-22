@@ -1,4 +1,4 @@
-﻿// 
+﻿// Папка 005 Программа приветствия по именам
 Console.WriteLine("Введите имя пользователя ");
 string username = Console.ReadLine();
 
