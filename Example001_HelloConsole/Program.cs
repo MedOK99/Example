@@ -1,4 +1,4 @@
-﻿// Пробую язык C#endregion
+﻿// Пробую язык C#
 
 int count = 0;
 int distance = 10000;
